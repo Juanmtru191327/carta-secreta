@@ -10,4 +10,11 @@ Revisa la fecha de este commit 👀, ahí verás que desde antes ya estaba prepa
 
 ---
 
+## Instrucciones 📝
+- No necesitas iniciar sesión para verla.  
+- Ábrela en **pantalla completa**.  
+- Desliza o avanza para disfrutar el mensaje.
+
+---
+
 *Este repo solo existe para dejar constancia de la fecha y mostrarte que lo hice con cariño y planeación 💜.*
